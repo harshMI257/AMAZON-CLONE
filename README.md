@@ -14,9 +14,7 @@ Admin Panel: Basic product and order management.
 Technologies Used
 
 Frontend: HTML, CSS
-Backend: PHP (or other backend language used)
-Database: MySQL
-Installation and Setup
+
 
 Clone the repository:
 
